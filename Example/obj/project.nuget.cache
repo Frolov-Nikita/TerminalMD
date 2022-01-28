@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/u5WA8EGxNeezr0jLdIG5pN/Jh67uinCswoxWtnPdyiLKT+8hbPBQkwGfMqNdOK1tuyDndfm9mYiGBmU8rjqnw==",
+  "success": true,
+  "projectFilePath": "D:\\src\\TerminalMD\\Example\\Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\markdig\\0.27.0\\markdig.0.27.0.nupkg.sha512"
+  ],
+  "logs": []
+}

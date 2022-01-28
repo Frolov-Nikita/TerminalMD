@@ -1,0 +1,10 @@
+D:\src\TerminalMD\TerminalMD\bin\Debug\netstandard2.0\TerminalMD.deps.json
+D:\src\TerminalMD\TerminalMD\bin\Debug\netstandard2.0\TerminalMD.dll
+D:\src\TerminalMD\TerminalMD\bin\Debug\netstandard2.0\TerminalMD.pdb
+D:\src\TerminalMD\TerminalMD\obj\Debug\netstandard2.0\TerminalMD.csproj.AssemblyReference.cache
+D:\src\TerminalMD\TerminalMD\obj\Debug\netstandard2.0\TerminalMD.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\TerminalMD\TerminalMD\obj\Debug\netstandard2.0\TerminalMD.AssemblyInfoInputs.cache
+D:\src\TerminalMD\TerminalMD\obj\Debug\netstandard2.0\TerminalMD.AssemblyInfo.cs
+D:\src\TerminalMD\TerminalMD\obj\Debug\netstandard2.0\TerminalMD.csproj.CoreCompileInputs.cache
+D:\src\TerminalMD\TerminalMD\obj\Debug\netstandard2.0\TerminalMD.dll
+D:\src\TerminalMD\TerminalMD\obj\Debug\netstandard2.0\TerminalMD.pdb

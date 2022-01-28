@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96f10e6d-80fa-4953-a0d3-d16b43b1a88a": {
+      "ProjectGuid": "96f10e6d-80fa-4953-a0d3-d16b43b1a88a",
+      "DisplayName": "TerminalMD",
+      "ColorIndex": 0
+    },
+    "43b9f605-0251-467f-a8e3-8bec976acb6b": {
+      "ProjectGuid": "43b9f605-0251-467f-a8e3-8bec976acb6b",
+      "DisplayName": "MarkDown",
+      "ColorIndex": 1
+    },
+    "943cc478-82fc-4f67-a200-91e1869b5674": {
+      "ProjectGuid": "943cc478-82fc-4f67-a200-91e1869b5674",
+      "DisplayName": "Example",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

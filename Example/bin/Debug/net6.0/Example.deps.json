@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example/1.0.0": {
+        "dependencies": {
+          "TerminalMD": "1.0.0"
+        },
+        "runtime": {
+          "Example.dll": {}
+        }
+      },
+      "Markdig/0.27.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Markdig.dll": {
+            "assemblyVersion": "0.27.0.0",
+            "fileVersion": "0.27.0.0"
+          }
+        }
+      },
+      "TerminalMD/1.0.0": {
+        "dependencies": {
+          "Markdig": "0.27.0"
+        },
+        "runtime": {
+          "TerminalMD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Markdig/0.27.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0nX9KT/sxKpuYc6tjnCP8FQhrFCUe438c4CcXPgwJkri1SEi9iHfvMkYmI44l1Djp+ThhC2KNfmRBpXN72Z/Mw==",
+      "path": "markdig/0.27.0",
+      "hashPath": "markdig.0.27.0.nupkg.sha512"
+    },
+    "TerminalMD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
